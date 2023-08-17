@@ -61,6 +61,9 @@ Expand your space-related vocabulary with important terminologies.
 
 Each API provides a unique way to explore and learn about various aspects of space. Use the provided endpoints to access information, expand your knowledge, and engage with the wonders of the universe.
 
+## Screenshot
+   ![Home](https://github.com/adarsh-2425/OTP-based-Authentication-System/blob/main/public/images/registration%20otp.png)
+
 ## License
 
 This project is licensed under the MIT License. Feel free to use and modify the code according to the license terms.

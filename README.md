@@ -2,6 +2,11 @@
 
 Welcome to the Space Education API, your source of fascinating space-related information. Explore the cosmos through a variety of APIs that provide details about planets, stars, galaxies, space missions, space phenomena, and space terminologies.
 
+## Base URL
+You can access the API using the following base URL:
+
+```https://space-education-api.onrender.com/```
+
 ## APIs
 
 ### Planets API
